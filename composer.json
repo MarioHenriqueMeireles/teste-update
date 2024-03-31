@@ -11,5 +11,7 @@
             "email": "mario.aquino.dev@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "mario/teste-update":"dev-master"
+    }
 }
