@@ -1,0 +1,15 @@
+{
+    "name": "mario/teste-update",
+    "autoload": {
+        "psr-4": {
+            "Mario\\TesteUpdate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MarioHenriqueMeireles",
+            "email": "mario.aquino.dev@gmail.com"
+        }
+    ],
+    "require": {}
+}
